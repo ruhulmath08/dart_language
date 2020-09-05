@@ -9,30 +9,53 @@ void main() {
   //hex value
   int hexval = 0xe3e3e3e3;
 
+  //print the value
+  print(score); //23
+  print(count); //23
+  print(hexval); //3823363043
+
   //Numbers: double
   double percentage = 93.5;
   var progress = 93.5;
+  double exponents = 1.42e5;
+  print(percentage); //93.5
+  print(progress); //93.5
+  print(exponents); //142000
 
   //Strings
   String name = "Ruhul";
   var man = "Ruhul";
+  print(name); //Ruhul
+  print(man); //Ruhul
 
   //Boolean
   bool isAlive = true;
   var alive = true;
+  print(isAlive); //true
+  print(alive); //true
 
-  //print the value
-  print(score);
-  print(count);
+  //default value of dart is null
+  int x;
+  print(x); //null
 
-  print(hexval);
+  double y;
+  print(y); //null
 
-  print(percentage);
-  print(progress);
+  String address;
+  print(address); //null
 
-  print(name);
-  print(man);
+  List list;
+  print(list); //null
 
-  print(isAlive);
-  print(alive);
+  Map map;
+  print(map); //null
+
+  Runes runes;
+  print(runes); //null
+
+
+
+
+
+
 }

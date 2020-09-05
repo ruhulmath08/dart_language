@@ -42,16 +42,16 @@ void main() {
   //print -> Moon
 
   //double as case value
-  const double val = 2010.0;
-  switch (val) {
-    case 2020.0:
-      print("Covid-19");
-      break;
-
-    case 2010.0:
-      print("Sarch-virus");
-      break;
-  }
+  // const double val = 2010.0;
+  // switch (val) {
+  //   case 2020.0:
+  //     print("Covid-19");
+  //     break;
+  //
+  //   case 2010.0:
+  //     print("Sarch-virus");
+  //     break;
+  // }
   //print -> Sarch-virus
   //Analysis issues may affect the execution of 'switch_case'.
 

@@ -12,21 +12,4 @@ void main() {
     print("Not so Good");
   }
   //result -> Good
-
-  //switch-case
-  String name = "Ruhul";
-  switch (name) {
-    case "Ruhul":
-      print("Works with Flutter");
-      break;
-
-    case "Arif":
-      print("Works with Java");
-      break;
-
-    case "Sharif":
-      print("Works with API");
-      break;
-  }
-  //result is -> Works with Flutter
 }

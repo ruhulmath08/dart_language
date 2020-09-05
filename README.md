@@ -4,3 +4,4 @@
     3) final and const keyword
     4) control flow statement
     5) conditional expression (??)
+    6)switch-case statement
